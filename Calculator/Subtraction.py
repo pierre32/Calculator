@@ -1,3 +1,5 @@
+class Calculator:
+
 def subtraction(a, b):
     a = float(a)
     b = float(b)
